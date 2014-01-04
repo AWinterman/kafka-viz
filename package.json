@@ -1,0 +1,19 @@
+{
+  "name": "kafka-viz",
+  "version": "0.0.0",
+  "description": "Visualize your system as it passes through kafka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka",
+    "visualize"
+  ],
+  "author": "Andrew Winterman",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "~3.3.13",
+    "prozess": "~0.6.4"
+  }
+}
